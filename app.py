@@ -2,6 +2,8 @@ import streamlit as st
 import google.generativeai as genai
 from PIL import Image
 
+# actualizacion
+
 # Pega tu API Key aquí
 api_key = "AIzaSyC0LZMOFSVrDVS6Z2jRkPrm8w9myngKoYQ"
 
