@@ -5,7 +5,7 @@ from PIL import Image
 # actualizacion
 
 # Pega tu API Key aquí
-api_key = "AIzaSyAnGTfnNyD-vq-VCb0x9701LsR47FLMt_I"
+api_key = "AIzaSyDHudr4qxWfZe-SrQGmaq7n6E4T6gi4Yvk"
 
 genai.configure(api_key=api_key)
 modelo = genai.GenerativeModel('gemini-2.5-flash')
